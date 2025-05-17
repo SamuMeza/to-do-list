@@ -50,7 +50,7 @@ Aunque la IA proporcionó sugerencias y propuestas de código, todas las decisio
 
 ## Uso
 
-1. Abrir [index.html](cci:7://file:///c:/Users/Equipo/Documents/practicasProyectos/practicaCalculadora/index.html:0:0-0:0) en un navegador web
+1. Abrir en un navegador web
 2. Ingresar números usando los botones
 3. Seleccionar operación
 4. Presionar "=" para ver resultado
@@ -65,14 +65,6 @@ Aunque la IA proporcionó sugerencias y propuestas de código, todas las decisio
 ## Estado del Proyecto
 
 Versión 1.0 - Funcional básica
-
-## Contribución
-
-1. Fork del repositorio
-2. Crear rama (`git checkout -b feature/AmazingFeature`)
-3. Commit (`git commit -m 'Add some AmazingFeature'`)
-4. Push (`git push origin feature/AmazingFeature`)
-5. Pull Request
 
 ## Soporte
 
